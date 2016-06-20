@@ -1,0 +1,29 @@
+{
+  "name": "node-cmd-curl",
+  "version": "0.0.1",
+  "description": "Use curl command directly to fet webpage",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/argilzar/node-cmd-curl.git"
+  },
+  "author": "Brian Bischoff <bbischoff@gmail.com> (http://github.com/argilzar)",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "curl"
+  ],
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/argilzar/node-cmd-curl/issues"
+  },
+  "homepage": "https://github.com/argilzar/node-cmd-curl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
